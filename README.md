@@ -1,6 +1,7 @@
 # Lab_7 CFG:
 ## Student Name and id: Carla Shawi - 40190561
 - CFG for onClick(): [link to onClick CFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-CarlaShawi/blob/master/CFG/onClickCFG.png)
+- Test requirements and paths: [link to pdf](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-CarlaShawi/blob/master/CFG/Coverage%20for%20OnClick%20%20method.pdf)
 
 ## Simple Gallery App:
 - CFG for onDraw() in simple Gallery app which is app picked for project: [link to onDraw() CFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-CarlaShawi/blob/master/CFG/SimpleGalleryAppCFG.png)
